@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1DD40AB4E075806A794E0AAB98B8D154C2AB0ECF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "41A10D109E8129D62EB1978E2E225E8D5DD58C36" : 0,
+    "1DD40AB4E075806A794E0AAB98B8D154C2AB0ECF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B417F74-75E6-4DC4-91F7-BB247B7F516F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "41A10D109E8129D62EB1978E2E225E8D5DD58C36" : "..\/..\/411\/CS411SampleCode",
+    "1DD40AB4E075806A794E0AAB98B8D154C2AB0ECF" : "asgt2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "anagramAsgt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "anagramAsgt\/anagramAsgt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "nov.ecs.fullerton.edu:cs411s16\/alvarador\/asgt2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1DD40AB4E075806A794E0AAB98B8D154C2AB0ECF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mshafae\/CS411SampleCode.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41A10D109E8129D62EB1978E2E225E8D5DD58C36"
+    }
+  ]
+}
